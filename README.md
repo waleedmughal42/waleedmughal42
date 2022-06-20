@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @waleedmughal42
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on some frontend design projects or internship in webdevelopment
+- 🌱 I’m a web developer
 - 📫 Mail me: waleed48581@gmail.com
 
 <!---
