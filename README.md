@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @waleedmughal42
-- 👀 I’m interested in web development
 - 🌱 I’m a web developer
 - 📫 Mail me: waleed48581@gmail.com
 
